@@ -40,7 +40,7 @@
 
 ### Решение 1
 
-
+[First commit](https://github.com/Dmitry-Anastasiev/Homework-8.1/commit/3ec5d3df6e6ccf41db2c47916b5502e9a50c1f5a)
 
 ---
 
